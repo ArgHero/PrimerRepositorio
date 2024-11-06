@@ -10,5 +10,6 @@ programación. Me gusta el desarrollo de software embebido pero quise explorar n
 - El anime mientras no tenga CGI o excesivo fan service.
 - Escucho de todo menos Taylor Swift.
 - Soy team michi y team calor.
+- Que se despelucen la reunión de los miércoles.
 
 [Saul Omar Arguello Hernandez]: <https://github.com/ArgHero>
